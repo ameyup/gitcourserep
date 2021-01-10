@@ -5,3 +5,4 @@ SSH Commit
 Testing branching - merging
 Adding more commits
 Implementing Pull Request
+Implementing Pull Request with Rebase
